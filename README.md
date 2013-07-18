@@ -6,11 +6,11 @@ TurnOffMonitor is a very simple program  that allows you to turn off all monitor
 Simply open it and then the screen will turn off.
 
 ## Tips
-You can associate the program with a multimedia key
-* [ES](http://blog.davidxl.es/2010/03/como-configurar-las-teclas-multimedia.html)
-* [EN](http://ashish.vashisht.net/2008/01/configuring-keyboard-multimedia-keys.html)
+You can associate TurnOffMonitor with a multimedia key:
+* ES: http://blog.davidxl.es/2010/03/como-configurar-las-teclas-multimedia.html
+* EN: http://ashish.vashisht.net/2008/01/configuring-keyboard-multimedia-keys.html
 
-Shortcut keys
+Or Shortcut key:
 * http://blog.davidxl.es/2010/03/teclas-de-metodos-abreviados.html
 
 ##Build
